@@ -1,1 +1,1 @@
-My website is published at https://bpmthanh.github.io/xephinhAvengers/
+git clone https://bpmthanh.github.io/xephinhAvengers/
